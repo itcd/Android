@@ -14,7 +14,8 @@ public class Hello {
 		
 		System.out.println("I am here...");
 		
-		// we want to do something
+		// we want something
+		// we want nothing
 	}
 
 }
