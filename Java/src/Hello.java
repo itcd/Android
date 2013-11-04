@@ -16,6 +16,7 @@ public class Hello {
 		
 		// we want something
 		// we want nothing
+		// egit test 1
 	}
 
 }
