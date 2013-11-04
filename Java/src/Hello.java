@@ -13,6 +13,8 @@ public class Hello {
 		System.out.println("Where am I???");
 		
 		System.out.println("I am here...");
+		
+		// we want to do something
 	}
 
 }
