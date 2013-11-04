@@ -15,6 +15,7 @@ public class Hello {
 		System.out.println("I am here...");
 		
 		// we want nothing
+		// egit test 2
 	}
 
 }
