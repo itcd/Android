@@ -26,6 +26,8 @@ public class Hello {
 		// egit test 5
 		
 		// egit test 6
+		
+		// egit test 7
 	}
 
 }
