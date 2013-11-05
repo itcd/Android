@@ -20,6 +20,8 @@ public class Hello {
 		// egit test 2
 
 		// egit test 1
+		
+		// egit test 3
 	}
 
 }
