@@ -14,8 +14,12 @@ public class Hello {
 		
 		System.out.println("I am here...");
 		
+		// we want something
 		// we want nothing
+
 		// egit test 2
+
+		// egit test 1
 	}
 
 }
